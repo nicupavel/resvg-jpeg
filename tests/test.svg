@@ -1,0 +1,11 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <image href="" x="0" y="0" width="1080" height="1350" preserveAspectRatio="xMidYMid slice" />
+  <rect x="0" y="0" width="1080" height="1350" fill="black" opacity="0.7" />
+  <text x="100" y="300" font-family="Poppins" font-size="300" fill="white" opacity="0.2">"</text>
+  <text transform="translate(540, 550)" font-family="Poppins" font-size="65" fill="white" text-anchor="middle" font-style="italic">
+    <tspan x="0" dy="0">This is a quote</tspan>
+  </text>
+  <text transform="translate(540, 1150)" font-family="Poppins" font-size="30" fill="#ccc" text-anchor="middle" letter-spacing="2">
+    - Nicu Pavel
+  </text>
+</svg>

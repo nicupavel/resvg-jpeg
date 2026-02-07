@@ -1,0 +1,4 @@
+tests/*.jpeg
+tests/*.jpg
+target/
+Cargo.lock
